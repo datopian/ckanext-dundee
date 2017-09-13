@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-dundee",
+  "scripts": {
+    "watch": "less-watch-compiler less/ css/ dundee.less",
+    "less": "./node_modules/.bin/lessc less/dundee.less css/dundee.css"
+  },
+  "devDependencies": {
+    "less": "^2.7.2",
+    "less-watch-compiler": "^1.6.7"
+  }
+}
