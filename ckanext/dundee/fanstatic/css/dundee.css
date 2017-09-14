@@ -59,6 +59,10 @@ input[type="color"]:focus {
 .pill {
   background-color: #495A74;
 }
+.media-grid {
+  background-color: #f6f7f9;
+  border-color: #d6dce6;
+}
 .account-masthead {
   background-color: #495A74;
 }
@@ -148,7 +152,7 @@ input[type="color"]:focus {
 }
 /* All modules */
 .module-heading {
-  background-color: #f6f7f9;
+  background-color: #d6dce6;
 }
 /* Search */
 .module-hero-search .search-input input {
@@ -165,14 +169,14 @@ input[type="color"]:focus {
   color: #F19A2D;
 }
 .news-header {
-  background-color: #f6f7f9;
+  background-color: #d6dce6;
 }
 .news-header .btn:hover {
   background-color: #ffffff;
 }
 .news-item {
   color: #354255;
-  border: 1px solid #f6f7f9;
+  border: 1px solid #d6dce6;
 }
 .news-item:hover,
 .news-item:focus {
@@ -241,7 +245,7 @@ input[type="color"]:focus {
   color: #CC0066;
 }
 .organization-logos {
-  background-color: #495A74;
+  background-color: #d6dce6;
 }
 .organization-logos figure figcaption {
   color: #495A74;
