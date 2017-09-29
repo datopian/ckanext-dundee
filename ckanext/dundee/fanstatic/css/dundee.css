@@ -15,6 +15,9 @@
 .inputs-style:focus {
   border-color: #CC0066;
 }
+.quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
 .hero {
   background-color: #F19A2D;
   background-image: url("../../../../base/images/background-tile.jpg");
@@ -24,7 +27,6 @@
 }
 body {
   background: #ffffff;
-  font-family: 'Quicksand', sans-serif;
 }
 .site-footer {
   background: #495A74;
@@ -58,6 +60,10 @@ input[type="color"]:focus {
 }
 .pill {
   background-color: #495A74;
+}
+.page-heading,
+.media-heading {
+  font-family: 'Quicksand', sans-serif;
 }
 .media-grid {
   background-color: #f6f7f9;
@@ -103,10 +109,14 @@ input[type="color"]:focus {
   color: #ffffff;
   background-color: #889ab4;
 }
+.btn {
+  font-family: 'Quicksand', sans-serif;
+}
 .btn-primary {
   background-color: #CC0066;
 }
 .nav-main {
+  font-family: 'Quicksand', sans-serif;
   background-color: #CC0066;
 }
 .nav-main .nav-collapse .nav > li a {
@@ -167,7 +177,11 @@ input[type="color"]:focus {
 }
 /* All modules */
 .module-heading {
+  font-family: 'Quicksand', sans-serif;
   background-color: #d6dce6;
+}
+.module-content h1 {
+  font-family: 'Quicksand', sans-serif;
 }
 /* Search */
 .module-hero-search .search-input input {
@@ -184,6 +198,7 @@ input[type="color"]:focus {
   color: #F19A2D;
 }
 .news-header {
+  font-family: 'Quicksand', sans-serif;
   background-color: #d6dce6;
 }
 .news-header .btn:hover {
@@ -197,6 +212,9 @@ input[type="color"]:focus {
 .news-item:focus {
   box-shadow: 0 0 30px #d6dce6;
   color: #354255;
+}
+.news-item-title {
+  font-family: 'Quicksand', sans-serif;
 }
 .add-dataset-modal {
   position: fixed;
@@ -246,6 +264,9 @@ input[type="color"]:focus {
 }
 .resource-list {
   margin-top: 15px;
+}
+.search-form h2 {
+  font-family: 'Quicksand', sans-serif;
 }
 .search-giant.search-input button i:hover {
   color: #CC0066;
